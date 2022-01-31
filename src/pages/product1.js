@@ -22,7 +22,7 @@ const Product1 = () => {
                 <meta property="twitter:description" content="Hamburger adalah sejenis makanan berupa roti berbentuk bundar yang diiris dua dan di tengahnya diisi dengan patty yang biasanya diambil dari daging"/>
                 <meta property="twitter:image" content="https://asset.kompas.com/crops/AnzPGqRxpoD-26G__5fPh6ooZSk=/0x28:640x455/750x500/data/photo/2020/12/12/5fd44cf8e94b1.jpg" />
             </Helmet>
-            <h1>product 1</h1>
+            <h1>product 1 new update</h1>
         </div>
     );
 };
