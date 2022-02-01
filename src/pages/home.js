@@ -12,6 +12,7 @@ const Home = () => {
 
             <h1>Ini adalah halaman home</h1>
             <p>coba menggunakan ubuntu</p>
+            <p>coba menggunakan index</p>
             <img src={logo} alt="logo" className="App-logo" />
         </div>
     );
