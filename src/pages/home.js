@@ -14,6 +14,7 @@ const Home = () => {
             <p>coba menggunakan ubuntu</p>
             <p>coba menggunakan index</p>
             <p>update sitemap</p>
+            <p>update meta name</p>
             <img src={logo} alt="logo" className="App-logo" />
         </div>
     );

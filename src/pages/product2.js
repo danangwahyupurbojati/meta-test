@@ -15,13 +15,13 @@ const Product2 = () => {
                 <meta property="og:url" content={location} />
                 <meta property="og:title" content="Product 2 Mie Ayam" />
                 <meta property="og:description" content="Mi ayam, mie ayam atau bakmi ayam adalah hidangan Indonesia yang terbuat dari mie " />
-                <meta property="og:image" content="https://cdn.okemom.com/wp-content/uploads/2021/05/17131641/Desain-tanpa-judul-2021-05-10T135131.448.jpg" />
+                <meta name="og:image" content="https://cdn.okemom.com/wp-content/uploads/2021/05/17131641/Desain-tanpa-judul-2021-05-10T135131.448.jpg" />
 
                 <meta property="twitter:card" content="summary_large_image" />
                 <meta property="twitter:url" content={location}/>
                 <meta property="twitter:title" content="Product 2 Mie Ayam"/>
                 <meta property="twitter:description" content="Mi ayam, mie ayam atau bakmi ayam adalah hidangan Indonesia yang terbuat dari mie "/>
-                <meta property="twitter:image" content="https://cdn.okemom.com/wp-content/uploads/2021/05/17131641/Desain-tanpa-judul-2021-05-10T135131.448.jpg" />
+                <meta name="twitter:image" content="https://cdn.okemom.com/wp-content/uploads/2021/05/17131641/Desain-tanpa-judul-2021-05-10T135131.448.jpg" />
 
             </Helmet>
             <h1>product 2</h1>
