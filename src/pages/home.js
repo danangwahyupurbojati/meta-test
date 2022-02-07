@@ -7,12 +7,13 @@ const Home = () => {
         <div>
             <Helmet>
                 <title>Home</title>
-                <link rel="canonical" href="https://www.tacobell.com/" />
+                {/* <link rel="canonical" href="https://www.tacobell.com/" /> */}
             </Helmet>
 
             <h1>Ini adalah halaman home</h1>
             <p>coba menggunakan ubuntu</p>
             <p>coba menggunakan index</p>
+            <p>update sitemap</p>
             <img src={logo} alt="logo" className="App-logo" />
         </div>
     );

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://meta-test-gamma.vercel.app/</loc>
+  </url>
+  <url>
+    <loc>https://meta-test-gamma.vercel.app/product1</loc>
+  </url>
+  <url>
+    <loc>https://meta-test-gamma.vercel.app/product2</loc>
+  </url>
+  <url>
+    <loc>https://meta-test-gamma.vercel.app/product3</loc>
+  </url>
+</urlset>
